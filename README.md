@@ -34,7 +34,7 @@ Basic unit tests are provided to validate:
 - Handling of simple dummy 4D fMRI data
 
 ### 📁 Test File
-[`tests/test_extract_connectivity.py`](./tests/test_extract_connectivity.py)
+[`test_extract_connectivity.py`](./test_extract_connectivity.py)
 
 ### ▶️ Run the tests
 
